@@ -1,1 +1,1 @@
-#Instruction to boot  LearnJava locally
+#Instructions to boot LearnJava locally
